@@ -67,10 +67,7 @@ h3 {
   font-size: 18px;
   line-height: 1.3;
 }
-.logo:hover,
-.logo span:hover {
-  color: #404bbf;
-}
+
 .logo > span {
   color: #4d5ae5;
 }
